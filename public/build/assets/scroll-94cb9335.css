@@ -1,0 +1,1 @@
+.containerscroll::-webkit-scrollbar{width:6px;height:6px}.containerscroll::-webkit-scrollbar-thumb{background-color:#888;border-radius:3px}.containerscroll::-webkit-scrollbar-thumb:hover{background-color:#555}.containerscroll::-webkit-scrollbar-track{background-color:#f1f1f1}.input-field[type=text]:focus{border:1px solid #e2b540}

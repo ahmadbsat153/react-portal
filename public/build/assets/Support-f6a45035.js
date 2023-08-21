@@ -1,0 +1,1 @@
+import{a as r}from"./app-e057de79.js";import m from"./SupportForm-8380f886.js";function e(){return r("div",{className:"bg-smooth min-h-screen",children:r("div",{className:"md:pl-20 pt-16 ",children:r("div",{className:"mx-auto px-10 py-10",children:r(m,{})})})})}export{e as default};

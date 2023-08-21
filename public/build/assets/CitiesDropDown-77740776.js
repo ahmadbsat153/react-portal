@@ -1,0 +1,1 @@
+import{r as a,j as n,a as t}from"./app-e057de79.js";const h=({options:l,setfilter:s})=>{const[i,o]=a.useState(""),[r,c]=a.useState([]);return n("div",{children:[t("input",{type:"text",placeholder:"Search...",onChange:e=>s(e.target.value),value:i}),r.length>0&&t("ul",{children:r.map(e=>t("li",{children:e.CityName},e.CityName))})]})};export{h as default};
