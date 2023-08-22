@@ -3,37 +3,37 @@
     "file": "assets/ReactToastify-f2ebcc7d.css",
     "src": "ReactToastify.css"
   },
-  "_AuthenticatedLayout-56465e75.js": {
-    "file": "assets/AuthenticatedLayout-56465e75.js",
+  "_AuthenticatedLayout-8e8ec1bb.js": {
+    "file": "assets/AuthenticatedLayout-8e8ec1bb.js",
     "imports": [
       "resources/js/app.jsx",
-      "_transition-d8cb4eb2.js",
-      "_ResponsiveNavLink-f4b97bfa.js"
+      "_transition-c244c592.js",
+      "_ResponsiveNavLink-7f89e99f.js"
     ]
   },
-  "_FileSaver.min-104598b7.js": {
-    "file": "assets/FileSaver.min-104598b7.js",
+  "_FileSaver.min-21bc0bf9.js": {
+    "file": "assets/FileSaver.min-21bc0bf9.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_GuestLayout-c8b23e1e.js": {
+  "_GuestLayout-28c233a3.js": {
     "assets": [
       "assets/Logo-3dd1ad89.png"
     ],
-    "file": "assets/GuestLayout-c8b23e1e.js",
+    "file": "assets/GuestLayout-28c233a3.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_InputError-d98f57fe.js": {
-    "file": "assets/InputError-d98f57fe.js",
+  "_InputError-c899e318.js": {
+    "file": "assets/InputError-c899e318.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_InputLabel-57afdb16.js": {
-    "file": "assets/InputLabel-57afdb16.js",
+  "_InputLabel-df2c927e.js": {
+    "file": "assets/InputLabel-df2c927e.js",
     "imports": [
       "resources/js/app.jsx"
     ]
@@ -56,54 +56,54 @@
     ],
     "file": "assets/NotFound-19253a0b.js"
   },
-  "_PrimaryButton-b9cd2eff.js": {
-    "file": "assets/PrimaryButton-b9cd2eff.js",
+  "_PrimaryButton-f3f34847.js": {
+    "file": "assets/PrimaryButton-f3f34847.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_ReactToastify-0668b2f3.js": {
+  "_ReactToastify-479c09c4.js": {
     "css": [
       "assets/ReactToastify-f2ebcc7d.css"
     ],
-    "file": "assets/ReactToastify-0668b2f3.js",
+    "file": "assets/ReactToastify-479c09c4.js",
     "imports": [
       "resources/js/app.jsx",
       "_clsx.m-84295364.js"
     ]
   },
-  "_ResponsiveNavLink-f4b97bfa.js": {
-    "file": "assets/ResponsiveNavLink-f4b97bfa.js",
+  "_ResponsiveNavLink-7f89e99f.js": {
+    "file": "assets/ResponsiveNavLink-7f89e99f.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_TextField-a48264b4.js": {
-    "file": "assets/TextField-a48264b4.js",
+  "_TextField-f4f3f866.js": {
+    "file": "assets/TextField-f4f3f866.js",
     "imports": [
       "_assertThisInitialized-9eca4e7a.js",
       "resources/js/app.jsx",
       "_clsx.m-84295364.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
-      "_TransitionGroup-43273414.js",
+      "_emotion-react.browser.esm-13745241.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js"
     ]
   },
-  "_TextInput-ea077d76.js": {
-    "file": "assets/TextInput-ea077d76.js",
+  "_TextInput-5e6f0e3e.js": {
+    "file": "assets/TextInput-5e6f0e3e.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_TransitionGroup-43273414.js": {
-    "file": "assets/TransitionGroup-43273414.js",
+  "_TransitionGroup-5d13b8cc.js": {
+    "file": "assets/TransitionGroup-5d13b8cc.js",
     "imports": [
       "_assertThisInitialized-9eca4e7a.js",
       "resources/js/app.jsx"
     ]
   },
-  "_Utils-ddf74621.js": {
-    "file": "assets/Utils-ddf74621.js",
+  "_Utils-db316b47.js": {
+    "file": "assets/Utils-db316b47.js",
     "imports": [
       "resources/js/app.jsx"
     ]
@@ -114,12 +114,12 @@
   "_assertThisInitialized-9eca4e7a.js": {
     "file": "assets/assertThisInitialized-9eca4e7a.js"
   },
-  "_bugs-55244794.js": {
-    "file": "assets/bugs-55244794.js",
+  "_bugs-cff0962b.js": {
+    "file": "assets/bugs-cff0962b.js",
     "imports": [
       "resources/js/app.jsx",
-      "_keyboard-7b642a18.js",
-      "_render-5eaee1c9.js"
+      "_keyboard-16b043a9.js",
+      "_render-e04cd4d2.js"
     ]
   },
   "_cert2-a023d2fb.js": {
@@ -142,22 +142,22 @@
   "_clsx.m-84295364.js": {
     "file": "assets/clsx.m-84295364.js"
   },
-  "_createLoading-8fbf5230.js": {
-    "file": "assets/createLoading-8fbf5230.js",
+  "_createLoading-927abf5f.js": {
+    "file": "assets/createLoading-927abf5f.js",
     "imports": [
       "_tslib.es6-3c43c0a4.js",
       "resources/js/app.jsx"
     ]
   },
-  "_dialog-cb1fcbaa.js": {
-    "file": "assets/dialog-cb1fcbaa.js",
+  "_dialog-01ea0282.js": {
+    "file": "assets/dialog-01ea0282.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-event-listener-2051adf1.js",
-      "_use-is-mounted-31350877.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-event-listener-68147dce.js",
+      "_use-is-mounted-865fb074.js"
     ]
   },
   "_emotion-is-prop-valid.esm-fbcdb146.js": {
@@ -169,23 +169,23 @@
   "_emotion-memoize.esm-f5713a00.js": {
     "file": "assets/emotion-memoize.esm-f5713a00.js"
   },
-  "_emotion-react.browser.esm-ebc793e1.js": {
-    "file": "assets/emotion-react.browser.esm-ebc793e1.js",
+  "_emotion-react.browser.esm-13745241.js": {
+    "file": "assets/emotion-react.browser.esm-13745241.js",
     "imports": [
       "resources/js/app.jsx",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ]
   },
-  "_exceljs.min-9c74167d.js": {
-    "file": "assets/exceljs.min-9c74167d.js",
+  "_exceljs.min-9b395a15.js": {
+    "file": "assets/exceljs.min-9b395a15.js",
     "imports": [
       "resources/js/app.jsx",
       "__commonjs-dynamic-modules-302442b1.js"
     ]
   },
-  "_hoist-non-react-statics.cjs-8f2ef505.js": {
-    "file": "assets/hoist-non-react-statics.cjs-8f2ef505.js",
+  "_hoist-non-react-statics.cjs-7ab4c45b.js": {
+    "file": "assets/hoist-non-react-statics.cjs-7ab4c45b.js",
     "imports": [
       "resources/js/app.jsx"
     ]
@@ -199,70 +199,70 @@
     ],
     "file": "assets/hvac-8677b048.js"
   },
-  "_index-13f887fb.js": {
-    "file": "assets/index-13f887fb.js",
+  "_index-068021b9.js": {
+    "file": "assets/index-068021b9.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-18cf91c4.js": {
-    "file": "assets/index-18cf91c4.js",
+  "_index-10ef25f4.js": {
+    "file": "assets/index-10ef25f4.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-2d4490b8.js": {
-    "file": "assets/index-2d4490b8.js",
+  "_index-2b75afad.js": {
+    "file": "assets/index-2b75afad.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-2fd36de9.js": {
-    "file": "assets/index-2fd36de9.js",
+  "_index-30853ff8.js": {
+    "file": "assets/index-30853ff8.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-3598ead0.js": {
-    "file": "assets/index-3598ead0.js",
+  "_index-7bef0d2f.js": {
+    "file": "assets/index-7bef0d2f.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index-816af11e.js": {
+    "file": "assets/index-816af11e.js",
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "_index-89ce6371.js": {
+    "file": "assets/index-89ce6371.js",
     "imports": [
       "resources/js/app.jsx",
-      "_createLoading-8fbf5230.js"
+      "_createLoading-927abf5f.js"
     ]
   },
-  "_index-490513a4.js": {
-    "file": "assets/index-490513a4.js",
+  "_index-8eef56af.js": {
+    "file": "assets/index-8eef56af.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-54dda393.js": {
-    "file": "assets/index-54dda393.js",
+  "_index-d0bfaa1e.js": {
+    "file": "assets/index-d0bfaa1e.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_index-92f9eb90.js": {
-    "file": "assets/index-92f9eb90.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "_index-d3e6c2d2.js": {
-    "file": "assets/index-d3e6c2d2.js",
+  "_index-ff3189e8.js": {
+    "file": "assets/index-ff3189e8.js",
     "imports": [
       "resources/js/app.jsx",
-      "_createLoading-8fbf5230.js"
+      "_createLoading-927abf5f.js"
     ]
   },
-  "_index-e929b1ea.js": {
-    "file": "assets/index-e929b1ea.js",
-    "imports": [
-      "resources/js/app.jsx"
-    ]
-  },
-  "_index.esm-aeecd397.js": {
-    "file": "assets/index.esm-aeecd397.js",
+  "_index.esm-fbc935a4.js": {
+    "file": "assets/index.esm-fbc935a4.js",
     "imports": [
       "resources/js/app.jsx"
     ]
@@ -273,26 +273,26 @@
     ],
     "file": "assets/jobs-95d4111a.js"
   },
-  "_keyboard-7b642a18.js": {
-    "file": "assets/keyboard-7b642a18.js",
+  "_keyboard-16b043a9.js": {
+    "file": "assets/keyboard-16b043a9.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js"
+      "_render-e04cd4d2.js"
     ]
   },
-  "_listbox-f3941a9f.js": {
-    "file": "assets/listbox-f3941a9f.js",
+  "_listbox-44bff5d1.js": {
+    "file": "assets/listbox-44bff5d1.js",
     "imports": [
       "resources/js/app.jsx",
-      "_use-is-mounted-31350877.js",
-      "_keyboard-7b642a18.js",
-      "_render-5eaee1c9.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_use-is-mounted-865fb074.js",
+      "_keyboard-16b043a9.js",
+      "_render-e04cd4d2.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ]
   },
-  "_moment-80f1d0fa.js": {
-    "file": "assets/moment-80f1d0fa.js",
+  "_moment-07f08409.js": {
+    "file": "assets/moment-07f08409.js",
     "imports": [
       "resources/js/app.jsx",
       "__commonjs-dynamic-modules-302442b1.js"
@@ -301,65 +301,65 @@
   "_moment-fbc5633a.js": {
     "file": "assets/moment-fbc5633a.js"
   },
-  "_popover-807b57b5.js": {
-    "file": "assets/popover-807b57b5.js",
+  "_popover-8f4ceb90.js": {
+    "file": "assets/popover-8f4ceb90.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ]
   },
-  "_react-paginate-61d0e15f.js": {
-    "file": "assets/react-paginate-61d0e15f.js",
+  "_react-paginate-5ee6c3b1.js": {
+    "file": "assets/react-paginate-5ee6c3b1.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_react-select.esm-e6119c41.js": {
-    "file": "assets/react-select.esm-e6119c41.js",
+  "_react-select.esm-2f9a3d2d.js": {
+    "file": "assets/react-select.esm-2f9a3d2d.js",
     "imports": [
       "_assertThisInitialized-9eca4e7a.js",
       "resources/js/app.jsx",
-      "_emotion-react.browser.esm-ebc793e1.js"
+      "_emotion-react.browser.esm-13745241.js"
     ]
   },
-  "_recaptcha-wrapper-adaa4f84.js": {
-    "file": "assets/recaptcha-wrapper-adaa4f84.js",
+  "_recaptcha-wrapper-033ef8ff.js": {
+    "file": "assets/recaptcha-wrapper-033ef8ff.js",
     "imports": [
       "resources/js/app.jsx",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ]
   },
-  "_render-5eaee1c9.js": {
-    "file": "assets/render-5eaee1c9.js",
+  "_render-e04cd4d2.js": {
+    "file": "assets/render-e04cd4d2.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_safetyRepChart-ddd1d93d.js": {
+  "_safetyRepChart-3d44215a.js": {
     "css": [
       "assets/safetyRepChart-98f8c881.css"
     ],
-    "file": "assets/safetyRepChart-ddd1d93d.js",
+    "file": "assets/safetyRepChart-3d44215a.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
-      "_createLoading-8fbf5230.js",
-      "_index-2fd36de9.js",
+      "_createLoading-927abf5f.js",
+      "_index-2b75afad.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx"
     ],
     "isDynamicEntry": true
   },
-  "_slick-theme-41f89823.js": {
+  "_slick-theme-3a4afe50.js": {
     "assets": [
       "assets/trucks-31b8a411.webp",
       "assets/postpic-ba2876ac.webp",
@@ -381,42 +381,42 @@
     "css": [
       "assets/slick-theme-131e9e7a.css"
     ],
-    "file": "assets/slick-theme-41f89823.js",
+    "file": "assets/slick-theme-3a4afe50.js",
     "imports": [
       "resources/js/app.jsx"
     ]
   },
-  "_transition-d8cb4eb2.js": {
-    "file": "assets/transition-d8cb4eb2.js",
+  "_transition-c244c592.js": {
+    "file": "assets/transition-c244c592.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js"
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js"
     ]
   },
   "_tslib.es6-3c43c0a4.js": {
     "file": "assets/tslib.es6-3c43c0a4.js"
   },
-  "_use-event-listener-2051adf1.js": {
-    "file": "assets/use-event-listener-2051adf1.js",
+  "_use-event-listener-68147dce.js": {
+    "file": "assets/use-event-listener-68147dce.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js"
     ]
   },
-  "_use-is-mounted-31350877.js": {
-    "file": "assets/use-is-mounted-31350877.js",
+  "_use-is-mounted-865fb074.js": {
+    "file": "assets/use-is-mounted-865fb074.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js"
+      "_render-e04cd4d2.js"
     ]
   },
-  "_use-resolve-button-type-ff7c32c3.js": {
-    "file": "assets/use-resolve-button-type-ff7c32c3.js",
+  "_use-resolve-button-type-6c9a46db.js": {
+    "file": "assets/use-resolve-button-type-6c9a46db.js",
     "imports": [
       "resources/js/app.jsx",
-      "_render-5eaee1c9.js"
+      "_render-e04cd4d2.js"
     ]
   },
   "node_modules/slick-carousel/slick/ajax-loader.gif": {
@@ -444,26 +444,26 @@
     "src": "radio.css"
   },
   "resources/js/Pages/Auth/ConfirmPassword.jsx": {
-    "file": "assets/ConfirmPassword-28e8b388.js",
+    "file": "assets/ConfirmPassword-928be29a.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_PrimaryButton-b9cd2eff.js",
-      "_TextInput-ea077d76.js"
+      "_GuestLayout-28c233a3.js",
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_PrimaryButton-f3f34847.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/ConfirmPassword.jsx"
   },
   "resources/js/Pages/Auth/ForgotPassword.jsx": {
-    "file": "assets/ForgotPassword-f6f4d039.js",
+    "file": "assets/ForgotPassword-8220cdc5.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_InputError-d98f57fe.js",
-      "_PrimaryButton-b9cd2eff.js",
-      "_TextInput-ea077d76.js"
+      "_GuestLayout-28c233a3.js",
+      "_InputError-c899e318.js",
+      "_PrimaryButton-f3f34847.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/ForgotPassword.jsx"
@@ -472,78 +472,78 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/Login-fc940ad1.js",
+    "file": "assets/Login-2a7949fa.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_TextInput-ea077d76.js",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_index-54dda393.js",
-      "_index-92f9eb90.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_GuestLayout-28c233a3.js",
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_TextInput-5e6f0e3e.js",
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_index-816af11e.js",
+      "_index-30853ff8.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/Login.jsx"
   },
   "resources/js/Pages/Auth/Register.jsx": {
-    "file": "assets/Register-cfa73edf.js",
+    "file": "assets/Register-b9a6fcc0.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_PrimaryButton-b9cd2eff.js",
-      "_TextInput-ea077d76.js"
+      "_GuestLayout-28c233a3.js",
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_PrimaryButton-f3f34847.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/Register.jsx"
   },
   "resources/js/Pages/Auth/ResetPassword.jsx": {
-    "file": "assets/ResetPassword-a063dac9.js",
+    "file": "assets/ResetPassword-9d50fbac.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_TextInput-ea077d76.js"
+      "_GuestLayout-28c233a3.js",
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/ResetPassword.jsx"
   },
   "resources/js/Pages/Auth/VerifyEmail.jsx": {
-    "file": "assets/VerifyEmail-43a1c025.js",
+    "file": "assets/VerifyEmail-7a35b0eb.js",
     "imports": [
       "resources/js/app.jsx",
-      "_GuestLayout-c8b23e1e.js",
-      "_PrimaryButton-b9cd2eff.js"
+      "_GuestLayout-28c233a3.js",
+      "_PrimaryButton-f3f34847.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Auth/VerifyEmail.jsx"
   },
   "resources/js/Pages/Capability.jsx": {
-    "file": "assets/Capability-41f6336a.js",
+    "file": "assets/Capability-7e3e11c2.js",
     "imports": [
       "resources/js/app.jsx",
       "_jobs-95d4111a.js",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
+      "_recaptcha-wrapper-033ef8ff.js",
       "resources/js/Pages/Component/navbars.jsx",
       "_LogoWhite-6907a085.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
-      "_index-54dda393.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
+      "_index-816af11e.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Capability.jsx"
@@ -552,15 +552,15 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddFailedReason-490efbc8.js",
+    "file": "assets/AddFailedReason-6fdad0bf.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/modals/AddFailedModal.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_InputError-d98f57fe.js"
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/AddFailedReason.jsx"
@@ -569,15 +569,15 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddRDDReason-4d82efdb.js",
+    "file": "assets/AddRDDReason-88fc38c7.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-30853ff8.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx",
-      "_InputError-d98f57fe.js"
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/AddRDDReason.jsx"
@@ -587,7 +587,7 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/Charts-ec089e3b.js",
+    "file": "assets/Charts-fc7dfd10.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
@@ -596,13 +596,13 @@
       "resources/js/Pages/Component/KPI.jsx",
       "resources/js/Pages/Consignment.jsx",
       "resources/js/Pages/Component/ConsPerf.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/Dashboard_Comp/NoDelivery.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/AdditionalCharges.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/DriverLogin.jsx",
@@ -613,37 +613,37 @@
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
-      "_safetyRepChart-ddd1d93d.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
-      "_createLoading-8fbf5230.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
-      "_index-3598ead0.js",
+      "_index-89ce6371.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_react-select.esm-e6119c41.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
-      "_index-d3e6c2d2.js",
+      "_index-ff3189e8.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_index-e929b1ea.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_index-d0bfaa1e.js",
       "resources/js/Pages/Component/consPerf/navbar.jsx",
       "resources/js/Pages/Component/consPerf/Details.jsx",
       "resources/js/Pages/Component/consPerf/General.jsx",
@@ -652,16 +652,16 @@
       "resources/js/Pages/Component/consPerf/Reciever.jsx",
       "__commonjs-dynamic-modules-302442b1.js",
       "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyType.jsx",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx",
-      "_InputError-d98f57fe.js",
+      "_InputError-c899e318.js",
       "resources/js/Pages/Component/AddRDDReason.jsx",
       "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx",
       "resources/js/Pages/Component/RDD.jsx",
-      "_listbox-f3941a9f.js",
-      "_TextField-a48264b4.js",
-      "_TransitionGroup-43273414.js",
+      "_listbox-44bff5d1.js",
+      "_TextField-f4f3f866.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
       "resources/js/Pages/Component/FailedCons.jsx",
       "resources/js/Pages/Component/AddFailedReason.jsx",
@@ -671,13 +671,13 @@
     "src": "resources/js/Pages/Component/Charts.jsx"
   },
   "resources/js/Pages/Component/ConsPerf.jsx": {
-    "file": "assets/ConsPerf-435b0f56.js",
+    "file": "assets/ConsPerf-4ed76783.js",
     "imports": [
       "resources/js/app.jsx",
       "_moment-fbc5633a.js",
       "resources/js/Pages/Component/consPerf/navbar.jsx",
       "_NotFound-19253a0b.js",
-      "_react-paginate-61d0e15f.js",
+      "_react-paginate-5ee6c3b1.js",
       "resources/js/Pages/Component/consPerf/Details.jsx",
       "resources/js/Pages/Component/consPerf/General.jsx",
       "resources/js/Pages/Component/consPerf/Amount.jsx",
@@ -688,55 +688,55 @@
     "src": "resources/js/Pages/Component/ConsPerf.jsx"
   },
   "resources/js/Pages/Component/DailyReport.jsx": {
-    "file": "assets/DailyReport-96949bf2.js",
+    "file": "assets/DailyReport-9ffbdcb5.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_index-2fd36de9.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_index-2b75afad.js",
       "_NotFound-19253a0b.js",
-      "_TextField-a48264b4.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_TextField-f4f3f866.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "_assertThisInitialized-9eca4e7a.js",
       "_clsx.m-84295364.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_TransitionGroup-43273414.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/DailyReport.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/AdditionalCharges.jsx": {
-    "file": "assets/AdditionalCharges-f7bc6c4b.js",
+    "file": "assets/AdditionalCharges-cf6e37cb.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
+      "_react-paginate-5ee6c3b1.js",
       "_NotFound-19253a0b.js",
-      "_index-18cf91c4.js",
+      "_index-8eef56af.js",
       "_moment-fbc5633a.js",
-      "_exceljs.min-9c74167d.js",
-      "_index-2fd36de9.js",
-      "_FileSaver.min-104598b7.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_exceljs.min-9b395a15.js",
+      "_index-2b75afad.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/AdditionalCharges.jsx"
@@ -745,78 +745,78 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/ChartsSidebar-904b72ab.js",
+    "file": "assets/ChartsSidebar-ef975fe2.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-e929b1ea.js"
+      "_index-d0bfaa1e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/ChartsSidebar.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx": {
-    "file": "assets/BasicColumnChart-74b78200.js",
+    "file": "assets/BasicColumnChart-a4f38df9.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DashStackedBarCharts.jsx": {
-    "file": "assets/DashStackedBarCharts-c0ab7fe7.js",
+    "file": "assets/DashStackedBarCharts-2999f53e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DashStackedBarCharts.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx": {
-    "file": "assets/DoublBarChart-dabfe02a.js",
+    "file": "assets/DoublBarChart-6e6b7fb5.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx": {
-    "file": "assets/MultiLineChart-b307ad41.js",
+    "file": "assets/MultiLineChart-6f9cbe5d.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/DriverLogin.jsx": {
-    "file": "assets/DriverLogin-fcc00563.js",
+    "file": "assets/DriverLogin-7ca15f97.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_NotFound-19253a0b.js",
-      "_exceljs.min-9c74167d.js",
+      "_exceljs.min-9b395a15.js",
       "_moment-fbc5633a.js",
-      "_index-2fd36de9.js",
-      "_FileSaver.min-104598b7.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_index-2b75afad.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/DriverLogin.jsx"
@@ -831,102 +831,102 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/MainCharts-6b3fbb03.js",
+    "file": "assets/MainCharts-fd9091b0.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_safetyRepChart-ddd1d93d.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_index-2fd36de9.js",
-      "_react-select.esm-e6119c41.js",
+      "_index-2b75afad.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_createLoading-8fbf5230.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_createLoading-927abf5f.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
-      "_index-3598ead0.js",
+      "_index-89ce6371.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_index-d3e6c2d2.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_index-ff3189e8.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "_tslib.es6-3c43c0a4.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx"
   },
   "resources/js/Pages/Component/Dashboard_Comp/NoDelivery.jsx": {
-    "file": "assets/NoDelivery-449ff661.js",
+    "file": "assets/NoDelivery-f190a4d4.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
+      "_react-paginate-5ee6c3b1.js",
       "_NotFound-19253a0b.js",
-      "_index-18cf91c4.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-8eef56af.js",
+      "_exceljs.min-9b395a15.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Dashboard_Comp/NoDelivery.jsx"
   },
   "resources/js/Pages/Component/FailedCons.jsx": {
-    "file": "assets/FailedCons-99edc43d.js",
+    "file": "assets/FailedCons-cceffe82.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_NotFound-19253a0b.js",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
-      "_index-92f9eb90.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_index-30853ff8.js",
       "_moment-fbc5633a.js",
-      "_index-2fd36de9.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
-      "_popover-807b57b5.js",
+      "_index-2b75afad.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
+      "_popover-8f4ceb90.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/FailedCons.jsx"
@@ -935,74 +935,74 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/FailedConsMain-0f0a607e.js",
+    "file": "assets/FailedConsMain-cb6e4561.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/FailedCons.jsx",
       "resources/js/Pages/Component/AddFailedReason.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_NotFound-19253a0b.js",
-      "_exceljs.min-9c74167d.js",
+      "_exceljs.min-9b395a15.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_FileSaver.min-104598b7.js",
-      "_index-92f9eb90.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_index-30853ff8.js",
       "_moment-fbc5633a.js",
-      "_index-2fd36de9.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js",
-      "_popover-807b57b5.js",
-      "_use-event-listener-2051adf1.js",
+      "_index-2b75afad.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js",
+      "_popover-8f4ceb90.js",
+      "_use-event-listener-68147dce.js",
       "resources/js/Pages/Component/modals/AddFailedModal.jsx",
-      "_InputError-d98f57fe.js"
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/FailedConsMain.jsx"
   },
   "resources/js/Pages/Component/GTAM/CreateUser.jsx": {
-    "file": "assets/CreateUser-c14708e9.js",
+    "file": "assets/CreateUser-ea5ae5d1.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2fd36de9.js",
-      "_TransitionGroup-43273414.js",
+      "_index-2b75afad.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_assertThisInitialized-9eca4e7a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/GTAM/CreateUser.jsx"
   },
   "resources/js/Pages/Component/GtrsCons.jsx": {
-    "file": "assets/GtrsCons-c31ce13f.js",
+    "file": "assets/GtrsCons-2470399e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_exceljs.min-9c74167d.js",
+      "_exceljs.min-9b395a15.js",
       "_NotFound-19253a0b.js",
-      "_FileSaver.min-104598b7.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/GtrsCons.jsx"
   },
   "resources/js/Pages/Component/GtrsDashboard.jsx": {
-    "file": "assets/GtrsDashboard-4b962f55.js",
+    "file": "assets/GtrsDashboard-11b06767.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js"
@@ -1014,7 +1014,7 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/InvoicesMain-a4b41961.js",
+    "file": "assets/InvoicesMain-1238eb66.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/InvoicesSidebar.jsx",
@@ -1030,40 +1030,40 @@
       "resources/js/Pages/Component/Invoices/Pages/POdetails.jsx",
       "resources/js/Pages/Component/Invoices/Pages/AddSupplier.jsx",
       "resources/js/Pages/Component/Invoices/Pages/Categories.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/Invoices/Pages/CloseReasons.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_index-3598ead0.js",
-      "_index-2fd36de9.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-89ce6371.js",
+      "_index-2b75afad.js",
+      "_exceljs.min-9b395a15.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "resources/js/Pages/Component/Invoices/components/TextFilter.jsx",
       "resources/js/Pages/Component/Invoices/components/MainTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_react-select.esm-e6119c41.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_moment-80f1d0fa.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/SupplierTable.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
       "_clsx.m-84295364.js"
@@ -1075,10 +1075,10 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/InvoicesSidebar-7de3ef0b.js",
+    "file": "assets/InvoicesSidebar-856d8b9e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js"
+      "_index-30853ff8.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/InvoicesSidebar.jsx"
@@ -1089,151 +1089,151 @@
     "src": "resources/js/Pages/Component/Invoices/InvoicesView.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/AddSupplier.jsx": {
-    "file": "assets/AddSupplier-5bf3bfcf.js",
+    "file": "assets/AddSupplier-534178a6.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_index-2fd36de9.js",
-      "_react-select.esm-e6119c41.js",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
+      "_index-2b75afad.js",
+      "_react-select.esm-2f9a3d2d.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/AddSupplier.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Categories.jsx": {
-    "file": "assets/Categories-50b31f0b.js",
+    "file": "assets/Categories-a64b3b68.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js"
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/Categories.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/CloseReasons.jsx": {
-    "file": "assets/CloseReasons-642874d0.js",
+    "file": "assets/CloseReasons-408e7aba.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js"
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/CloseReasons.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Companies.jsx": {
-    "file": "assets/Companies-c8342174.js",
+    "file": "assets/Companies-34bf0cb4.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js"
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/Companies.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/CreateInvoice.jsx": {
-    "file": "assets/CreateInvoice-d8a6fb19.js",
+    "file": "assets/CreateInvoice-8659c608.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "_moment-fbc5633a.js",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
       "_tslib.es6-3c43c0a4.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/CreateInvoice.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/CreatePO.jsx": {
-    "file": "assets/CreatePO-856170a2.js",
+    "file": "assets/CreatePO-b8a9a826.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_index-2fd36de9.js",
-      "_moment-80f1d0fa.js",
+      "_index-2b75afad.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "_tslib.es6-3c43c0a4.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/CreatePO.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Dashboard.jsx": {
-    "file": "assets/Dashboard-0d7096f5.js",
+    "file": "assets/Dashboard-ad0143db.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-3598ead0.js"
+      "_index-89ce6371.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/Dashboard.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Invoice.jsx": {
-    "file": "assets/Invoice-33e84b86.js",
+    "file": "assets/Invoice-873ca9c9.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "_moment-fbc5633a.js",
       "__commonjs-dynamic-modules-302442b1.js"
@@ -1242,110 +1242,110 @@
     "src": "resources/js/Pages/Component/Invoices/Pages/Invoice.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/InvoicesPage.jsx": {
-    "file": "assets/InvoicesPage-88491328.js",
+    "file": "assets/InvoicesPage-d5cfb921.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2fd36de9.js",
-      "_index-92f9eb90.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-2b75afad.js",
+      "_index-30853ff8.js",
+      "_exceljs.min-9b395a15.js",
       "resources/js/Pages/Component/Invoices/components/TextFilter.jsx",
       "resources/js/Pages/Component/Invoices/components/MainTable.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_react-select.esm-e6119c41.js",
-      "_moment-80f1d0fa.js",
+      "_react-select.esm-2f9a3d2d.js",
+      "_moment-07f08409.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/InvoicesPage.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/POdetails.jsx": {
-    "file": "assets/POdetails-2d757711.js",
+    "file": "assets/POdetails-90cfeeb8.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
       "_moment-fbc5633a.js",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
       "_tslib.es6-3c43c0a4.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/POdetails.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/PurchaseOrder.jsx": {
-    "file": "assets/PurchaseOrder-44ef6b5b.js",
+    "file": "assets/PurchaseOrder-1f068f72.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-30853ff8.js",
+      "_exceljs.min-9b395a15.js",
       "resources/js/Pages/Component/Invoices/components/TextFilter.jsx",
       "resources/js/Pages/Component/Invoices/components/MainTable.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_react-select.esm-e6119c41.js",
-      "_moment-80f1d0fa.js",
+      "_react-select.esm-2f9a3d2d.js",
+      "_moment-07f08409.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/PurchaseOrder.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Services.jsx": {
-    "file": "assets/Services-60753921.js",
+    "file": "assets/Services-baea2d2f.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js"
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/Services.jsx"
   },
   "resources/js/Pages/Component/Invoices/Pages/Suppliers.jsx": {
-    "file": "assets/Suppliers-a3d4d777.js",
+    "file": "assets/Suppliers-c81143bc.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
       "resources/js/Pages/Component/Invoices/components/SupplierTable.jsx",
-      "_index-e929b1ea.js",
-      "_react-paginate-61d0e15f.js",
+      "_index-d0bfaa1e.js",
+      "_react-paginate-5ee6c3b1.js",
       "_NotFound-19253a0b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/Pages/Suppliers.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/CitiesDropDown.jsx": {
-    "file": "assets/CitiesDropDown-77740776.js",
+    "file": "assets/CitiesDropDown-9fd1da34.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1353,7 +1353,7 @@
     "src": "resources/js/Pages/Component/Invoices/components/CitiesDropDown.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/DropBox.jsx": {
-    "file": "assets/DropBox-c4906c74.js",
+    "file": "assets/DropBox-b8631e2b.js",
     "imports": [
       "resources/js/app.jsx",
       "_tslib.es6-3c43c0a4.js"
@@ -1362,7 +1362,7 @@
     "src": "resources/js/Pages/Component/Invoices/components/DropBox.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx": {
-    "file": "assets/InvoicesButton-7ea88f0c.js",
+    "file": "assets/InvoicesButton-8e3b88ae.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1370,20 +1370,20 @@
     "src": "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/InvoicesTable.jsx": {
-    "file": "assets/InvoicesTable-5992343e.js",
+    "file": "assets/InvoicesTable-f89dd691.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-e929b1ea.js"
+      "_index-d0bfaa1e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/InvoicesTable.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/MainTable.jsx": {
-    "file": "assets/MainTable-0acebb6e.js",
+    "file": "assets/MainTable-278febcd.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js"
     ],
@@ -1391,7 +1391,7 @@
     "src": "resources/js/Pages/Component/Invoices/components/MainTable.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/NumberFilter.jsx": {
-    "file": "assets/NumberFilter-dc3feab7.js",
+    "file": "assets/NumberFilter-4a31650b.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1399,47 +1399,47 @@
     "src": "resources/js/Pages/Component/Invoices/components/NumberFilter.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx": {
-    "file": "assets/PdfPreview-a5044247.js",
+    "file": "assets/PdfPreview-1ee59741.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "__commonjs-dynamic-modules-302442b1.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/SmallTable.jsx": {
-    "file": "assets/SmallTable-883a92fa.js",
+    "file": "assets/SmallTable-e241e591.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/SmallTable.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/SupplierTable.jsx": {
-    "file": "assets/SupplierTable-3eba3fa0.js",
+    "file": "assets/SupplierTable-99975c59.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-e929b1ea.js",
-      "_react-paginate-61d0e15f.js",
+      "_index-d0bfaa1e.js",
+      "_react-paginate-5ee6c3b1.js",
       "_NotFound-19253a0b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/SupplierTable.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/TextFilter.jsx": {
-    "file": "assets/TextFilter-0e8f9a4a.js",
+    "file": "assets/TextFilter-ab35711a.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1447,109 +1447,109 @@
     "src": "resources/js/Pages/Component/Invoices/components/TextFilter.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx": {
-    "file": "assets/BarColumnCharts-a3cd5202.js",
+    "file": "assets/BarColumnCharts-358875ee.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx"
   },
   "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx": {
-    "file": "assets/MultiChartsLine-e337c738.js",
+    "file": "assets/MultiChartsLine-67ec80db.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx"
   },
   "resources/js/Pages/Component/KPI.jsx": {
-    "file": "assets/KPI-03aae69e.js",
+    "file": "assets/KPI-b0d77ee3.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_exceljs.min-9c74167d.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_exceljs.min-9b395a15.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/KPI.jsx"
   },
   "resources/js/Pages/Component/MissingPOD.jsx": {
-    "file": "assets/MissingPOD-78c49ea4.js",
+    "file": "assets/MissingPOD-10f5c8ea.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_NotFound-19253a0b.js",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_index-2fd36de9.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_index-2b75afad.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/MissingPOD.jsx"
   },
   "resources/js/Pages/Component/RDD.jsx": {
-    "file": "assets/RDD-398cb7cb.js",
+    "file": "assets/RDD-8ccd951c.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-92f9eb90.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_transition-d8cb4eb2.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-30853ff8.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_transition-c244c592.js",
       "_moment-fbc5633a.js",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_NotFound-19253a0b.js",
-      "_TextField-a48264b4.js",
-      "_popover-807b57b5.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
+      "_TextField-f4f3f866.js",
+      "_popover-8f4ceb90.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "_assertThisInitialized-9eca4e7a.js",
       "_clsx.m-84295364.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_TransitionGroup-43273414.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
-      "_use-event-listener-2051adf1.js"
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/RDD.jsx"
@@ -1559,47 +1559,47 @@
       "assets/radio-434fd731.css",
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/RDDMain-c0ac62e7.js",
+    "file": "assets/RDDMain-b71af886.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/AddRDDReason.jsx",
       "resources/js/Pages/Component/RDD.jsx",
-      "_index-92f9eb90.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-30853ff8.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx",
-      "_InputError-d98f57fe.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-2fd36de9.js",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js",
+      "_InputError-c899e318.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-2b75afad.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js",
       "_moment-fbc5633a.js",
-      "_exceljs.min-9c74167d.js",
+      "_exceljs.min-9b395a15.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_FileSaver.min-104598b7.js",
-      "_TextField-a48264b4.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_TextField-f4f3f866.js",
       "_assertThisInitialized-9eca4e7a.js",
       "_clsx.m-84295364.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_TransitionGroup-43273414.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
-      "_popover-807b57b5.js",
-      "_use-event-listener-2051adf1.js"
+      "_popover-8f4ceb90.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/RDDMain.jsx"
   },
   "resources/js/Pages/Component/SupportComp/SupportForm.jsx": {
-    "file": "assets/SupportForm-8380f886.js",
+    "file": "assets/SupportForm-46f25792.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1607,7 +1607,7 @@
     "src": "resources/js/Pages/Component/SupportComp/SupportForm.jsx"
   },
   "resources/js/Pages/Component/accordionView.jsx": {
-    "file": "assets/accordionView-291ce2ff.js",
+    "file": "assets/accordionView-f2674dab.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1615,7 +1615,7 @@
     "src": "resources/js/Pages/Component/accordionView.jsx"
   },
   "resources/js/Pages/Component/chatBot.jsx": {
-    "file": "assets/chatBot-d0d67512.js",
+    "file": "assets/chatBot-74067cec.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1623,7 +1623,7 @@
     "src": "resources/js/Pages/Component/chatBot.jsx"
   },
   "resources/js/Pages/Component/consPerf/Amount.jsx": {
-    "file": "assets/Amount-90fe2add.js",
+    "file": "assets/Amount-4c5af4f6.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1631,7 +1631,7 @@
     "src": "resources/js/Pages/Component/consPerf/Amount.jsx"
   },
   "resources/js/Pages/Component/consPerf/Details.jsx": {
-    "file": "assets/Details-95636064.js",
+    "file": "assets/Details-17d3d716.js",
     "imports": [
       "resources/js/app.jsx",
       "_moment-fbc5633a.js"
@@ -1640,7 +1640,7 @@
     "src": "resources/js/Pages/Component/consPerf/Details.jsx"
   },
   "resources/js/Pages/Component/consPerf/General.jsx": {
-    "file": "assets/General-b8a06492.js",
+    "file": "assets/General-5bbea468.js",
     "imports": [
       "resources/js/app.jsx",
       "_moment-fbc5633a.js"
@@ -1649,7 +1649,7 @@
     "src": "resources/js/Pages/Component/consPerf/General.jsx"
   },
   "resources/js/Pages/Component/consPerf/Reciever.jsx": {
-    "file": "assets/Reciever-44699f87.js",
+    "file": "assets/Reciever-d58dac4f.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1657,7 +1657,7 @@
     "src": "resources/js/Pages/Component/consPerf/Reciever.jsx"
   },
   "resources/js/Pages/Component/consPerf/Sender.jsx": {
-    "file": "assets/Sender-e3b01db1.js",
+    "file": "assets/Sender-1d26a87a.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1665,7 +1665,7 @@
     "src": "resources/js/Pages/Component/consPerf/Sender.jsx"
   },
   "resources/js/Pages/Component/consPerf/navbar.jsx": {
-    "file": "assets/navbar-959d2c4d.js",
+    "file": "assets/navbar-1acff94d.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/consPerf/Details.jsx",
@@ -1679,28 +1679,28 @@
     "src": "resources/js/Pages/Component/consPerf/navbar.jsx"
   },
   "resources/js/Pages/Component/gtam-Profile.jsx": {
-    "file": "assets/gtam-Profile-bf3450ee.js",
+    "file": "assets/gtam-Profile-c3ed9a98.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js"
+      "_index-30853ff8.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/gtam-Profile.jsx"
   },
   "resources/js/Pages/Component/gtam-sidebar.jsx": {
-    "file": "assets/gtam-sidebar-2c75ec65.js",
+    "file": "assets/gtam-sidebar-dd5e5806.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-e929b1ea.js"
+      "_index-d0bfaa1e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/gtam-sidebar.jsx"
   },
   "resources/js/Pages/Component/gtam-users.jsx": {
-    "file": "assets/gtam-users-1034b315.js",
+    "file": "assets/gtam-users-2a2a1c91.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js"
+      "_index-30853ff8.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/gtam-users.jsx"
@@ -1710,7 +1710,7 @@
       "assets/truckleft-cca67c47.webp",
       "assets/aboutcircle-3038f18c.webp"
     ],
-    "file": "assets/AboutUs-849342e1.js",
+    "file": "assets/AboutUs-f73796c9.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1721,48 +1721,48 @@
     "assets": [
       "assets/forklift-62ccb067.webp"
     ],
-    "file": "assets/Benefits-306556a5.js",
+    "file": "assets/Benefits-93d5740b.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-13f887fb.js"
+      "_index-068021b9.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/Benefits.jsx"
   },
   "resources/js/Pages/Component/landingPage/ContactForm.jsx": {
-    "file": "assets/ContactForm-dc144af0.js",
+    "file": "assets/ContactForm-df6b0b39.js",
     "imports": [
       "resources/js/app.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/ContactForm.jsx"
   },
   "resources/js/Pages/Component/landingPage/ContactUs.jsx": {
-    "file": "assets/ContactUs-f28a0cc8.js",
+    "file": "assets/ContactUs-e78bcfcd.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/landingPage/ContatcUsForm.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/ContactUs.jsx"
   },
   "resources/js/Pages/Component/landingPage/ContatcUsForm.jsx": {
-    "file": "assets/ContatcUsForm-c42fff36.js",
+    "file": "assets/ContatcUsForm-ec35efb2.js",
     "imports": [
       "resources/js/app.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/ContatcUsForm.jsx"
   },
   "resources/js/Pages/Component/landingPage/Features.jsx": {
-    "file": "assets/Features-0a2e52d9.js",
+    "file": "assets/Features-7c85ede6.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1770,7 +1770,7 @@
     "src": "resources/js/Pages/Component/landingPage/Features.jsx"
   },
   "resources/js/Pages/Component/landingPage/Footer.jsx": {
-    "file": "assets/Footer-77426c71.js",
+    "file": "assets/Footer-c790433d.js",
     "imports": [
       "resources/js/app.jsx",
       "_LogoWhite-6907a085.js"
@@ -1782,17 +1782,17 @@
     "assets": [
       "assets/headerImage-a17d5c86.webp"
     ],
-    "file": "assets/HeroSection-297779d6.js",
+    "file": "assets/HeroSection-28fb1a40.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
-      "_dialog-cb1fcbaa.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-event-listener-2051adf1.js",
-      "_use-is-mounted-31350877.js"
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
+      "_dialog-01ea0282.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-event-listener-68147dce.js",
+      "_use-is-mounted-865fb074.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/HeroSection.jsx"
@@ -1801,11 +1801,11 @@
     "assets": [
       "assets/newscircle-90602dc8.webp"
     ],
-    "file": "assets/News-3da50e05.js",
+    "file": "assets/News-04591b28.js",
     "imports": [
       "resources/js/app.jsx",
-      "_slick-theme-41f89823.js",
-      "_index-e929b1ea.js"
+      "_slick-theme-3a4afe50.js",
+      "_index-d0bfaa1e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/News.jsx"
@@ -1814,7 +1814,7 @@
     "assets": [
       "assets/fronttruck-185ade88.webp"
     ],
-    "file": "assets/OpportunitiesSection-83769c65.js",
+    "file": "assets/OpportunitiesSection-44ab0e69.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1822,7 +1822,7 @@
     "src": "resources/js/Pages/Component/landingPage/OpportunitiesSection.jsx"
   },
   "resources/js/Pages/Component/landingPage/Partners.jsx": {
-    "file": "assets/Partners-d0da33d3.js",
+    "file": "assets/Partners-bda6b8e2.js",
     "imports": [
       "resources/js/app.jsx",
       "_hvac-8677b048.js",
@@ -1832,16 +1832,16 @@
     "src": "resources/js/Pages/Component/landingPage/Partners.jsx"
   },
   "resources/js/Pages/Component/landingPage/Primaryservices.jsx": {
-    "file": "assets/Primaryservices-fc5e576d.js",
+    "file": "assets/Primaryservices-c19eb213.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-13f887fb.js"
+      "_index-068021b9.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/Primaryservices.jsx"
   },
   "resources/js/Pages/Component/landingPage/Process.jsx": {
-    "file": "assets/Process-76c39014.js",
+    "file": "assets/Process-aeba6972.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1849,10 +1849,10 @@
     "src": "resources/js/Pages/Component/landingPage/Process.jsx"
   },
   "resources/js/Pages/Component/landingPage/SecondaryFooter.jsx": {
-    "file": "assets/SecondaryFooter-18cc435d.js",
+    "file": "assets/SecondaryFooter-2892bff3.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-490513a4.js",
+      "_index-10ef25f4.js",
       "_LogoWhite-6907a085.js"
     ],
     "isDynamicEntry": true,
@@ -1865,19 +1865,19 @@
       "assets/DASH-GTLS-5629359d.webp",
       "assets/PERF-GTLS-1298ace0.webp"
     ],
-    "file": "assets/Softwares-4c2b3bb5.js",
+    "file": "assets/Softwares-fb4640c1.js",
     "imports": [
       "resources/js/app.jsx",
       "_clsx.m-84295364.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_use-resolve-button-type-ff7c32c3.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_use-resolve-button-type-6c9a46db.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/Softwares.jsx"
   },
   "resources/js/Pages/Component/landingPage/Technologies.jsx": {
-    "file": "assets/Technologies-3e8b731a.js",
+    "file": "assets/Technologies-daf986a8.js",
     "imports": [
       "resources/js/app.jsx",
       "_hvac-8677b048.js",
@@ -1891,16 +1891,16 @@
       "assets/header-image-11828f5c.webp",
       "assets/aus-be18c3c4.webp"
     ],
-    "file": "assets/VideoHeader-5daeceb8.js",
+    "file": "assets/VideoHeader-eb625657.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-490513a4.js"
+      "_index-10ef25f4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/VideoHeader.jsx"
   },
   "resources/js/Pages/Component/landingPage/branches.jsx": {
-    "file": "assets/branches-a0ccbe33.js",
+    "file": "assets/branches-ff4e6411.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -1908,7 +1908,7 @@
     "src": "resources/js/Pages/Component/landingPage/branches.jsx"
   },
   "resources/js/Pages/Component/landingPage/certificates.jsx": {
-    "file": "assets/certificates-0308ac22.js",
+    "file": "assets/certificates-696708d9.js",
     "imports": [
       "resources/js/app.jsx",
       "_cert2-a023d2fb.js"
@@ -1917,23 +1917,23 @@
     "src": "resources/js/Pages/Component/landingPage/certificates.jsx"
   },
   "resources/js/Pages/Component/landingPage/certificatesw.jsx": {
-    "file": "assets/certificatesw-ff58ee04.js",
+    "file": "assets/certificatesw-e897fc8a.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "_cert2-a023d2fb.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/certificatesw.jsx"
   },
   "resources/js/Pages/Component/landingPage/video.jsx": {
-    "file": "assets/video-d72ce7b1.js",
+    "file": "assets/video-192acf36.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/landingPage/videoComponent.jsx",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/landingPage/video.jsx"
@@ -1942,11 +1942,11 @@
     "assets": [
       "assets/Gtls-aus-9cd0bc5c.mp4"
     ],
-    "file": "assets/videoComponent-33e4cc62.js",
+    "file": "assets/videoComponent-1d3338b7.js",
     "imports": [
       "resources/js/app.jsx",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_emotion-memoize.esm-f5713a00.js"
     ],
     "isDynamicEntry": true,
@@ -1957,7 +1957,7 @@
       "assets/whycircle-2456a413.webp",
       "assets/loginBackground-f5f0c8b5.webp"
     ],
-    "file": "assets/whyGoldTiger-2ccf76a5.js",
+    "file": "assets/whyGoldTiger-ea42372c.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/accordionView.jsx"
@@ -1969,12 +1969,12 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddFailedModal-a8091227.js",
+    "file": "assets/AddFailedModal-c5e07a36.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_InputError-d98f57fe.js"
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/modals/AddFailedModal.jsx"
@@ -1983,12 +1983,12 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddRDDReasonModal-55967214.js",
+    "file": "assets/AddRDDReasonModal-e6786857.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_InputError-d98f57fe.js"
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx"
@@ -1997,39 +1997,39 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/SupportModal-5301c2cd.js",
+    "file": "assets/SupportModal-2b3839eb.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/SupportComp/SupportForm.jsx"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/modals/SupportModal.jsx"
   },
   "resources/js/Pages/Component/navbars.jsx": {
-    "file": "assets/navbars-3d3e64ca.js",
+    "file": "assets/navbars-7104c6b3.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
       "_LogoWhite-6907a085.js",
-      "_index-54dda393.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_index-816af11e.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/navbars.jsx"
   },
   "resources/js/Pages/Component/opportunities/HaulDriver.jsx": {
-    "file": "assets/HaulDriver-b4a43831.js",
+    "file": "assets/HaulDriver-351846f4.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -2037,7 +2037,7 @@
     "src": "resources/js/Pages/Component/opportunities/HaulDriver.jsx"
   },
   "resources/js/Pages/Component/opportunities/Mechanic.jsx": {
-    "file": "assets/Mechanic-793b4e76.js",
+    "file": "assets/Mechanic-094c2c97.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -2045,7 +2045,7 @@
     "src": "resources/js/Pages/Component/opportunities/Mechanic.jsx"
   },
   "resources/js/Pages/Component/opportunities/TruckDriver.jsx": {
-    "file": "assets/TruckDriver-4d58d311.js",
+    "file": "assets/TruckDriver-98718a1e.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -2056,26 +2056,26 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddSafetyCauses-0561240e.js",
+    "file": "assets/AddSafetyCauses-b75fabb9.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-30853ff8.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyCauses/AddSafetyCausesModel.jsx",
-      "_InputError-d98f57fe.js"
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/AddSafety/safetyCauses/AddSafetyCauses.jsx"
   },
   "resources/js/Pages/Component/safetyComp/AddSafety/safetyCauses/AddSafetyCausesModel.jsx": {
-    "file": "assets/AddSafetyCausesModel-cdaa49e8.js",
+    "file": "assets/AddSafetyCausesModel-7b4bb38a.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2d4490b8.js",
-      "_InputError-d98f57fe.js",
-      "_TextInput-ea077d76.js"
+      "_index-7bef0d2f.js",
+      "_InputError-c899e318.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/AddSafety/safetyCauses/AddSafetyCausesModel.jsx"
@@ -2084,36 +2084,36 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/AddSafetyType-003f8828.js",
+    "file": "assets/AddSafetyType-550d233e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-30853ff8.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx",
-      "_InputError-d98f57fe.js"
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyType.jsx"
   },
   "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx": {
-    "file": "assets/AddSafetyTypeModel-0de92d42.js",
+    "file": "assets/AddSafetyTypeModel-dd3f3fa0.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-2d4490b8.js",
-      "_InputError-d98f57fe.js",
-      "_TextInput-ea077d76.js"
+      "_index-7bef0d2f.js",
+      "_InputError-c899e318.js",
+      "_TextInput-5e6f0e3e.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/BarChartData.jsx": {
-    "file": "assets/BarChartData-6ab78e00.js",
+    "file": "assets/BarChartData-f29c7058.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
       "_moment-fbc5633a.js"
@@ -2122,47 +2122,47 @@
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/BarChartData.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/ChartjsConfig.jsx": {
-    "file": "assets/ChartjsConfig-c194a2bd.js",
+    "file": "assets/ChartjsConfig-adcf4413.js",
     "imports": [
       "_chart-edd6f26f.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/app.jsx"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/ChartjsConfig.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx": {
-    "file": "assets/DoughnutChart-8bb20f0e.js",
+    "file": "assets/DoughnutChart-99bf9b23.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_moment-fbc5633a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx": {
-    "file": "assets/SafetyBarChart01-7448d6ce.js",
+    "file": "assets/SafetyBarChart01-a68c7284.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_moment-fbc5633a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart02.jsx": {
-    "file": "assets/SafetyBarChart02-f50143a0.js",
+    "file": "assets/SafetyBarChart02-e6f08c8d.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/ChartjsConfig.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Utils/ThemeContext.jsx",
       "_moment-fbc5633a.js"
     ],
@@ -2170,35 +2170,35 @@
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart02.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart03.jsx": {
-    "file": "assets/SafetyBarChart03-3f328479.js",
+    "file": "assets/SafetyBarChart03-1466096d.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_moment-fbc5633a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart03.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx": {
-    "file": "assets/SafetyCard02-d222542b.js",
+    "file": "assets/SafetyCard02-191b57c4.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_moment-fbc5633a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx": {
-    "file": "assets/SafetyDoubleBarChart-719631e6.js",
+    "file": "assets/SafetyDoubleBarChart-6b5477e8.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
       "_moment-fbc5633a.js"
@@ -2207,30 +2207,30 @@
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx": {
-    "file": "assets/SafetyRepByState-9db987a1.js",
+    "file": "assets/SafetyRepByState-15567444.js",
     "imports": [
       "resources/js/app.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "_moment-fbc5633a.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx": {
-    "file": "assets/StackedBarChart-ca1548c3.js",
+    "file": "assets/StackedBarChart-f56b59f8.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/Utils/ThemeContext.jsx": {
-    "file": "assets/ThemeContext-fd13f5c1.js",
+    "file": "assets/ThemeContext-30abb3f3.js",
     "imports": [
       "resources/js/app.jsx"
     ],
@@ -2238,11 +2238,11 @@
     "src": "resources/js/Pages/Component/safetyComp/safetyCharts/Utils/ThemeContext.jsx"
   },
   "resources/js/Pages/Component/safetyComp/safetyCharts/floatingBarChart.jsx": {
-    "file": "assets/floatingBarChart-e5a3e6ae.js",
+    "file": "assets/floatingBarChart-2676e6fa.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart02.jsx",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/ChartjsConfig.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
@@ -2256,27 +2256,27 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/safetyRepTable-a8374365.js",
+    "file": "assets/safetyRepTable-8a85ca2c.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_index-92f9eb90.js",
-      "_exceljs.min-9c74167d.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_index-30853ff8.js",
+      "_exceljs.min-9b395a15.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_index-2fd36de9.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_index-2b75afad.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx"
@@ -2285,72 +2285,72 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/safetyRep-7acd0377.js",
+    "file": "assets/safetyRep-1c8546af.js",
     "imports": [
       "resources/js/app.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx",
-      "_safetyRepChart-ddd1d93d.js",
-      "_react-select.esm-e6119c41.js",
+      "_safetyRepChart-3d44215a.js",
+      "_react-select.esm-2f9a3d2d.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyType.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_index-92f9eb90.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_index-30853ff8.js",
+      "_exceljs.min-9b395a15.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
-      "_createLoading-8fbf5230.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
-      "_index-3598ead0.js",
+      "_index-89ce6371.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx",
-      "_InputError-d98f57fe.js"
+      "_InputError-c899e318.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/safetyRep.jsx"
   },
   "resources/js/Pages/Component/scrollnavmain.jsx": {
-    "file": "assets/scrollnavmain-c893c79c.js",
+    "file": "assets/scrollnavmain-30867bf9.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
       "_LogoWhite-6907a085.js",
-      "_index-490513a4.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js"
+      "_index-10ef25f4.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Component/scrollnavmain.jsx"
@@ -2359,7 +2359,7 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/Consignment-39c6bbd5.js",
+    "file": "assets/Consignment-e36ae502.js",
     "imports": [
       "resources/js/app.jsx",
       "_moment-fbc5633a.js"
@@ -2368,14 +2368,14 @@
     "src": "resources/js/Pages/Consignment.jsx"
   },
   "resources/js/Pages/Dashboard.jsx": {
-    "file": "assets/Dashboard-7e06a9a1.js",
+    "file": "assets/Dashboard-58f4d2b1.js",
     "imports": [
       "resources/js/app.jsx",
-      "_AuthenticatedLayout-56465e75.js",
-      "_transition-d8cb4eb2.js",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js",
-      "_ResponsiveNavLink-f4b97bfa.js"
+      "_AuthenticatedLayout-8e8ec1bb.js",
+      "_transition-c244c592.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js",
+      "_ResponsiveNavLink-7f89e99f.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Dashboard.jsx"
@@ -2385,65 +2385,65 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/GTAM-4079be48.js",
+    "file": "assets/GTAM-32bd77f5.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/gtam-sidebar.jsx",
       "resources/js/Pages/Component/gtam-users.jsx",
       "resources/js/Pages/Component/gtam-Profile.jsx",
-      "_index.esm-aeecd397.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index.esm-fbc935a4.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_safetyRepChart-ddd1d93d.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_moment-80f1d0fa.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/GTAM/CreateUser.jsx",
-      "_index-e929b1ea.js",
-      "_index-92f9eb90.js",
+      "_index-d0bfaa1e.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-2fd36de9.js",
-      "_react-select.esm-e6119c41.js",
+      "_index-2b75afad.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
-      "_index-d3e6c2d2.js",
+      "_index-ff3189e8.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_TransitionGroup-43273414.js"
+      "_TransitionGroup-5d13b8cc.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/GTAM.jsx"
@@ -2453,52 +2453,52 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/GTMS-ffcffe32.js",
+    "file": "assets/GTMS-33204d04.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index.esm-aeecd397.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index.esm-fbc935a4.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_safetyRepChart-ddd1d93d.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_moment-80f1d0fa.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-2fd36de9.js",
-      "_react-select.esm-e6119c41.js",
+      "_index-2b75afad.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
-      "_index-d3e6c2d2.js",
+      "_index-ff3189e8.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
@@ -2514,61 +2514,61 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/GTRS-c5079821.js",
+    "file": "assets/GTRS-cd8e97a4.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index.esm-aeecd397.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_index.esm-fbc935a4.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_exceljs.min-9c74167d.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_exceljs.min-9b395a15.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_moment-80f1d0fa.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/Charts.jsx",
       "__commonjs-dynamic-modules-302442b1.js",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-3598ead0.js",
-      "_index-2fd36de9.js",
+      "_index-89ce6371.js",
+      "_index-2b75afad.js",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
-      "_safetyRepChart-ddd1d93d.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_react-select.esm-e6119c41.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/Dashboard_Comp/ChartsSidebar.jsx",
-      "_index-e929b1ea.js",
+      "_index-d0bfaa1e.js",
       "resources/js/Pages/Component/GtrsCons.jsx",
       "resources/js/Pages/Component/KPI.jsx",
       "resources/js/Pages/Consignment.jsx",
@@ -2584,17 +2584,17 @@
       "resources/js/Pages/Component/Dashboard_Comp/DriverLogin.jsx",
       "resources/js/Pages/Component/safetyRep.jsx",
       "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyType.jsx",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx",
-      "_InputError-d98f57fe.js",
+      "_InputError-c899e318.js",
       "resources/js/Pages/Component/RDDMain.jsx",
       "resources/js/Pages/Component/AddRDDReason.jsx",
       "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx",
       "resources/js/Pages/Component/RDD.jsx",
-      "_listbox-f3941a9f.js",
-      "_TextField-a48264b4.js",
-      "_TransitionGroup-43273414.js",
+      "_listbox-44bff5d1.js",
+      "_TextField-f4f3f866.js",
+      "_TransitionGroup-5d13b8cc.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
       "resources/js/Pages/Component/FailedConsMain.jsx",
       "resources/js/Pages/Component/FailedCons.jsx",
@@ -2610,52 +2610,52 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/GTW-a30f9639.js",
+    "file": "assets/GTW-80b8b1a8.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index.esm-aeecd397.js",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index.esm-fbc935a4.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
-      "_exceljs.min-9c74167d.js",
-      "_FileSaver.min-104598b7.js",
+      "_exceljs.min-9b395a15.js",
+      "_FileSaver.min-21bc0bf9.js",
       "_moment-fbc5633a.js",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
-      "_safetyRepChart-ddd1d93d.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_moment-80f1d0fa.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_index-3598ead0.js",
-      "_createLoading-8fbf5230.js",
+      "_index-89ce6371.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-2fd36de9.js",
-      "_react-select.esm-e6119c41.js",
+      "_index-2b75afad.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
-      "_index-d3e6c2d2.js",
+      "_index-ff3189e8.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
@@ -2670,48 +2670,48 @@
     "css": [
       "assets/scroll-94cb9335.css"
     ],
-    "file": "assets/Invoices-57d10a08.js",
+    "file": "assets/Invoices-5d65555e.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/Invoices/InvoicesMain.jsx",
       "resources/js/Pages/Component/Invoices/InvoicesSidebar.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/Invoices/Pages/Dashboard.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
-      "_index-d3e6c2d2.js",
-      "_createLoading-8fbf5230.js",
+      "_index-ff3189e8.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_index-3598ead0.js",
+      "_index-89ce6371.js",
       "resources/js/Pages/Component/Invoices/Pages/InvoicesPage.jsx",
-      "_index-2fd36de9.js",
-      "_exceljs.min-9c74167d.js",
+      "_index-2b75afad.js",
+      "_exceljs.min-9b395a15.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "resources/js/Pages/Component/Invoices/components/TextFilter.jsx",
       "resources/js/Pages/Component/Invoices/components/MainTable.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-e929b1ea.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-d0bfaa1e.js",
       "_NotFound-19253a0b.js",
       "_moment-fbc5633a.js",
       "resources/js/Pages/Component/Invoices/components/InvoicesButton.jsx",
-      "_react-select.esm-e6119c41.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_moment-80f1d0fa.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/Pages/PurchaseOrder.jsx",
       "resources/js/Pages/Component/Invoices/Pages/Suppliers.jsx",
       "resources/js/Pages/Component/Invoices/components/SupplierTable.jsx",
       "resources/js/Pages/Component/Invoices/Pages/Services.jsx",
       "resources/js/Pages/Component/Invoices/components/SmallTable.jsx",
-      "_listbox-f3941a9f.js",
-      "_use-is-mounted-31350877.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_transition-d8cb4eb2.js",
+      "_listbox-44bff5d1.js",
+      "_use-is-mounted-865fb074.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_transition-c244c592.js",
       "resources/js/Pages/Component/Invoices/Pages/Companies.jsx",
       "resources/js/Pages/Component/Invoices/Pages/Invoice.jsx",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
@@ -2721,7 +2721,7 @@
       "resources/js/Pages/Component/Invoices/Pages/POdetails.jsx",
       "resources/js/Pages/Component/Invoices/Pages/AddSupplier.jsx",
       "resources/js/Pages/Component/Invoices/Pages/Categories.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/Invoices/Pages/CloseReasons.jsx"
     ],
@@ -2736,75 +2736,75 @@
       "assets/scroll-94cb9335.css",
       "assets/radio-434fd731.css"
     ],
-    "file": "assets/Layout-b9b9f1e1.js",
+    "file": "assets/Layout-3fde2d50.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
-      "_index.esm-aeecd397.js",
+      "_index-30853ff8.js",
+      "_index.esm-fbc935a4.js",
       "_JAIX-7538ad92.js",
-      "_ResponsiveNavLink-f4b97bfa.js",
+      "_ResponsiveNavLink-7f89e99f.js",
       "resources/js/Pages/Component/modals/SupportModal.jsx",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js",
       "resources/js/Pages/GTAM.jsx",
       "resources/js/Pages/GTMS.jsx",
       "resources/js/Pages/GTW.jsx",
       "resources/js/Pages/GTRS.jsx",
-      "_react-paginate-61d0e15f.js",
-      "_index-18cf91c4.js",
+      "_react-paginate-5ee6c3b1.js",
+      "_index-8eef56af.js",
       "_moment-fbc5633a.js",
-      "_FileSaver.min-104598b7.js",
-      "_exceljs.min-9c74167d.js",
+      "_FileSaver.min-21bc0bf9.js",
+      "_exceljs.min-9b395a15.js",
       "resources/js/Pages/Invoices.jsx",
-      "_index-2d4490b8.js",
-      "_TextInput-ea077d76.js",
+      "_index-7bef0d2f.js",
+      "_TextInput-5e6f0e3e.js",
       "resources/js/Pages/Component/SupportComp/SupportForm.jsx",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-event-listener-2051adf1.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-event-listener-68147dce.js",
       "resources/js/Pages/Component/gtam-sidebar.jsx",
-      "_index-e929b1ea.js",
+      "_index-d0bfaa1e.js",
       "resources/js/Pages/Component/gtam-users.jsx",
       "resources/js/Pages/Component/gtam-Profile.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/MainCharts.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyRepByState.jsx",
       "_chart-edd6f26f.js",
       "_chartjs-adapter-moment.esm-ca28907c.js",
-      "_Utils-ddf74621.js",
+      "_Utils-db316b47.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyCard02.jsx",
-      "_safetyRepChart-ddd1d93d.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/DoughnutChart.jsx",
       "_clsx.m-84295364.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/SafetyDoubleBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Charts/SafetyBarChart01.jsx",
-      "_createLoading-8fbf5230.js",
+      "_createLoading-927abf5f.js",
       "_tslib.es6-3c43c0a4.js",
-      "_index-2fd36de9.js",
+      "_index-2b75afad.js",
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
-      "_index-3598ead0.js",
+      "_index-89ce6371.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/BasicColumnChart.jsx",
-      "_react-select.esm-e6119c41.js",
+      "_react-select.esm-2f9a3d2d.js",
       "_assertThisInitialized-9eca4e7a.js",
-      "_emotion-react.browser.esm-ebc793e1.js",
+      "_emotion-react.browser.esm-13745241.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
       "_NotFound-19253a0b.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/MultiLineChart.jsx",
-      "_index-d3e6c2d2.js",
+      "_index-ff3189e8.js",
       "resources/js/Pages/Component/Dashboard_Comp/Dashboard_Charts/DoublBarChart.jsx",
-      "_popover-807b57b5.js",
-      "_use-resolve-button-type-ff7c32c3.js",
+      "_popover-8f4ceb90.js",
+      "_use-resolve-button-type-6c9a46db.js",
       "__commonjs-dynamic-modules-302442b1.js",
       "resources/js/Pages/Component/Invoices/components/charts/MultiChartsLine.jsx",
       "resources/js/Pages/Component/Invoices/components/charts/BarColumnCharts.jsx",
-      "_moment-80f1d0fa.js",
+      "_moment-07f08409.js",
       "resources/js/Pages/Component/Invoices/components/PdfPreview.jsx",
       "resources/js/Pages/Component/Invoices/components/DropBox.jsx",
-      "_ReactToastify-0668b2f3.js",
+      "_ReactToastify-479c09c4.js",
       "resources/js/Pages/Component/GTAM/CreateUser.jsx",
-      "_TransitionGroup-43273414.js",
+      "_TransitionGroup-5d13b8cc.js",
       "resources/js/Pages/Component/Charts.jsx",
       "resources/js/Pages/Component/Dashboard_Comp/ChartsSidebar.jsx",
       "resources/js/Pages/Component/GtrsCons.jsx",
@@ -2824,13 +2824,13 @@
       "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyType.jsx",
       "resources/js/Pages/Component/safetyComp/AddSafety/safetyTypes/AddSafetyTypeModel.jsx",
-      "_InputError-d98f57fe.js",
+      "_InputError-c899e318.js",
       "resources/js/Pages/Component/RDDMain.jsx",
       "resources/js/Pages/Component/AddRDDReason.jsx",
       "resources/js/Pages/Component/modals/AddRDDReasonModal.jsx",
       "resources/js/Pages/Component/RDD.jsx",
-      "_listbox-f3941a9f.js",
-      "_TextField-a48264b4.js",
+      "_listbox-44bff5d1.js",
+      "_TextField-f4f3f866.js",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
       "resources/js/Pages/Component/FailedConsMain.jsx",
       "resources/js/Pages/Component/FailedCons.jsx",
@@ -2862,26 +2862,26 @@
     "src": "resources/js/Pages/Layout.jsx"
   },
   "resources/js/Pages/NewsPage.jsx": {
-    "file": "assets/NewsPage-80e87dab.js",
+    "file": "assets/NewsPage-fac542d7.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-54dda393.js",
-      "_slick-theme-41f89823.js",
-      "_index-92f9eb90.js",
+      "_index-816af11e.js",
+      "_slick-theme-3a4afe50.js",
+      "_index-30853ff8.js",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
-      "_index-490513a4.js",
+      "_index-10ef25f4.js",
       "resources/js/Pages/Component/navbars.jsx",
       "_LogoWhite-6907a085.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js"
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/NewsPage.jsx"
@@ -2890,7 +2890,7 @@
     "assets": [
       "assets/404-8c0647a0.webp"
     ],
-    "file": "assets/NotFoundPage-e0d01f10.js",
+    "file": "assets/NotFoundPage-0f4d2341.js",
     "imports": [
       "resources/js/app.jsx",
       "_LogoWhite-6907a085.js"
@@ -2902,12 +2902,12 @@
     "assets": [
       "assets/pallet-45a193c4.webp"
     ],
-    "file": "assets/Opportunities-5633940b.js",
+    "file": "assets/Opportunities-b770d36a.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-54dda393.js",
+      "_index-816af11e.js",
       "_jobs-95d4111a.js",
-      "_index-490513a4.js",
+      "_index-10ef25f4.js",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
       "resources/js/Pages/Component/landingPage/ContactForm.jsx",
       "resources/js/Pages/Component/chatBot.jsx",
@@ -2916,121 +2916,121 @@
       "resources/js/Pages/Component/opportunities/Mechanic.jsx",
       "resources/js/Pages/Component/opportunities/HaulDriver.jsx",
       "_LogoWhite-6907a085.js",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js"
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Opportunities.jsx"
   },
   "resources/js/Pages/PalletTerms.jsx": {
-    "file": "assets/PalletTerms-b35b2291.js",
+    "file": "assets/PalletTerms-e25975ab.js",
     "imports": [
       "resources/js/app.jsx",
       "_jobs-95d4111a.js",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
       "resources/js/Pages/Component/navbars.jsx",
       "_LogoWhite-6907a085.js",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
-      "_index-54dda393.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js"
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
+      "_index-816af11e.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/PalletTerms.jsx"
   },
   "resources/js/Pages/Profile/Edit.jsx": {
-    "file": "assets/Edit-2e05eb68.js",
+    "file": "assets/Edit-70e267b9.js",
     "imports": [
       "resources/js/app.jsx",
-      "_AuthenticatedLayout-56465e75.js",
+      "_AuthenticatedLayout-8e8ec1bb.js",
       "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx",
       "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx",
       "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx",
-      "_transition-d8cb4eb2.js",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js",
-      "_ResponsiveNavLink-f4b97bfa.js",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_dialog-cb1fcbaa.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-event-listener-2051adf1.js",
-      "_TextInput-ea077d76.js",
-      "_PrimaryButton-b9cd2eff.js"
+      "_transition-c244c592.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js",
+      "_ResponsiveNavLink-7f89e99f.js",
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_dialog-01ea0282.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-event-listener-68147dce.js",
+      "_TextInput-5e6f0e3e.js",
+      "_PrimaryButton-f3f34847.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Profile/Edit.jsx"
   },
   "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx": {
-    "file": "assets/DeleteUserForm-21e2abf9.js",
+    "file": "assets/DeleteUserForm-e606cdaf.js",
     "imports": [
       "resources/js/app.jsx",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js",
-      "_TextInput-ea077d76.js",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-event-listener-2051adf1.js"
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js",
+      "_TextInput-5e6f0e3e.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-event-listener-68147dce.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Profile/Partials/DeleteUserForm.jsx"
   },
   "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx": {
-    "file": "assets/UpdatePasswordForm-59826e1f.js",
+    "file": "assets/UpdatePasswordForm-a4b2ab59.js",
     "imports": [
       "resources/js/app.jsx",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_PrimaryButton-b9cd2eff.js",
-      "_TextInput-ea077d76.js",
-      "_transition-d8cb4eb2.js",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js"
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_PrimaryButton-f3f34847.js",
+      "_TextInput-5e6f0e3e.js",
+      "_transition-c244c592.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Profile/Partials/UpdatePasswordForm.jsx"
   },
   "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx": {
-    "file": "assets/UpdateProfileInformationForm-cc9ac16f.js",
+    "file": "assets/UpdateProfileInformationForm-270b871e.js",
     "imports": [
       "resources/js/app.jsx",
-      "_InputError-d98f57fe.js",
-      "_InputLabel-57afdb16.js",
-      "_PrimaryButton-b9cd2eff.js",
-      "_TextInput-ea077d76.js",
-      "_transition-d8cb4eb2.js",
-      "_render-5eaee1c9.js",
-      "_use-is-mounted-31350877.js"
+      "_InputError-c899e318.js",
+      "_InputLabel-df2c927e.js",
+      "_PrimaryButton-f3f34847.js",
+      "_TextInput-5e6f0e3e.js",
+      "_transition-c244c592.js",
+      "_render-e04cd4d2.js",
+      "_use-is-mounted-865fb074.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.jsx"
   },
   "resources/js/Pages/Support.jsx": {
-    "file": "assets/Support-f6a45035.js",
+    "file": "assets/Support-7a9f37d4.js",
     "imports": [
       "resources/js/app.jsx",
       "resources/js/Pages/Component/SupportComp/SupportForm.jsx"
@@ -3039,27 +3039,27 @@
     "src": "resources/js/Pages/Support.jsx"
   },
   "resources/js/Pages/Terms.jsx": {
-    "file": "assets/Terms-3e6b3f77.js",
+    "file": "assets/Terms-d1247663.js",
     "imports": [
       "resources/js/app.jsx",
       "_jobs-95d4111a.js",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
+      "_recaptcha-wrapper-033ef8ff.js",
       "resources/js/Pages/Component/navbars.jsx",
       "_LogoWhite-6907a085.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_index-92f9eb90.js",
-      "_index-2fd36de9.js",
-      "_index-54dda393.js",
-      "_popover-807b57b5.js",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js"
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_index-30853ff8.js",
+      "_index-2b75afad.js",
+      "_index-816af11e.js",
+      "_popover-8f4ceb90.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Terms.jsx"
@@ -3070,12 +3070,12 @@
     "src": "resources/js/Pages/Test.jsx"
   },
   "resources/js/Pages/Welcome.jsx": {
-    "file": "assets/Welcome-65afe0e7.js",
+    "file": "assets/Welcome-71515287.js",
     "imports": [
       "resources/js/app.jsx",
-      "_index-92f9eb90.js",
+      "_index-30853ff8.js",
       "_LogoWhite-6907a085.js",
-      "_index-490513a4.js",
+      "_index-10ef25f4.js",
       "resources/js/Pages/Component/landingPage/ContactUs.jsx",
       "resources/js/Pages/Component/landingPage/Footer.jsx",
       "resources/js/Pages/Component/landingPage/Primaryservices.jsx",
@@ -3093,36 +3093,36 @@
       "resources/js/Pages/Component/landingPage/Benefits.jsx",
       "resources/js/Pages/Component/landingPage/Process.jsx",
       "resources/js/Pages/Component/landingPage/Features.jsx",
-      "_index-2fd36de9.js",
-      "_popover-807b57b5.js",
-      "_transition-d8cb4eb2.js",
-      "_dialog-cb1fcbaa.js",
+      "_index-2b75afad.js",
+      "_popover-8f4ceb90.js",
+      "_transition-c244c592.js",
+      "_dialog-01ea0282.js",
       "resources/js/Pages/Component/landingPage/ContatcUsForm.jsx",
-      "_recaptcha-wrapper-adaa4f84.js",
-      "_hoist-non-react-statics.cjs-8f2ef505.js",
-      "_index-13f887fb.js",
+      "_recaptcha-wrapper-033ef8ff.js",
+      "_hoist-non-react-statics.cjs-7ab4c45b.js",
+      "_index-068021b9.js",
       "resources/js/Pages/Component/landingPage/videoComponent.jsx",
       "_emotion-is-prop-valid.esm-fbcdb146.js",
       "_emotion-memoize.esm-f5713a00.js",
-      "_slick-theme-41f89823.js",
-      "_index-e929b1ea.js",
+      "_slick-theme-3a4afe50.js",
+      "_index-d0bfaa1e.js",
       "_cert2-a023d2fb.js",
       "_hvac-8677b048.js",
       "_JAIX-7538ad92.js",
       "resources/js/Pages/Component/accordionView.jsx",
-      "_render-5eaee1c9.js",
-      "_keyboard-7b642a18.js",
-      "_bugs-55244794.js",
-      "_use-is-mounted-31350877.js",
-      "_use-resolve-button-type-ff7c32c3.js",
-      "_use-event-listener-2051adf1.js",
+      "_render-e04cd4d2.js",
+      "_keyboard-16b043a9.js",
+      "_bugs-cff0962b.js",
+      "_use-is-mounted-865fb074.js",
+      "_use-resolve-button-type-6c9a46db.js",
+      "_use-event-listener-68147dce.js",
       "_clsx.m-84295364.js"
     ],
     "isDynamicEntry": true,
     "src": "resources/js/Pages/Welcome.jsx"
   },
   "resources/js/app.css": {
-    "file": "assets/app-8ec6bb80.css",
+    "file": "assets/app-044821ef.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.jsx": {
@@ -3134,7 +3134,7 @@
       "assets/world-8c5b7707.webp"
     ],
     "css": [
-      "assets/app-8ec6bb80.css"
+      "assets/app-044821ef.css"
     ],
     "dynamicImports": [
       "resources/js/Pages/Auth/ConfirmPassword.jsx",
@@ -3253,7 +3253,7 @@
       "resources/js/Pages/Component/safetyComp/safetyCharts/StackedBarChart.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/Utils/ThemeContext.jsx",
       "resources/js/Pages/Component/safetyComp/safetyCharts/floatingBarChart.jsx",
-      "_safetyRepChart-ddd1d93d.js",
+      "_safetyRepChart-3d44215a.js",
       "resources/js/Pages/Component/safetyComp/safetyRepTable.jsx",
       "resources/js/Pages/Component/safetyRep.jsx",
       "resources/js/Pages/Component/scrollnavmain.jsx",
@@ -3278,7 +3278,7 @@
       "resources/js/Pages/Test.jsx",
       "resources/js/Pages/Welcome.jsx"
     ],
-    "file": "assets/app-e057de79.js",
+    "file": "assets/app-5ec6a85d.js",
     "isEntry": true,
     "src": "resources/js/app.jsx"
   },

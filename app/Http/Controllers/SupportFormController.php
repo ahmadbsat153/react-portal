@@ -38,7 +38,7 @@ class SupportFormController extends Controller
     ];
     
         // send the email
-        Mail::to('bassame@gtls.com.au')->send(new SupportFormMail($data));
+        Mail::to('ITSupport@gtls.com.au')->send(new SupportFormMail($data));
     
         // redirect the user with a success message
         return redirect()->back()->with('success', 'Your message has been sent successfully!');

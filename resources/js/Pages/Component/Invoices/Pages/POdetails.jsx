@@ -31,6 +31,7 @@ export default function POdetails({
 }) {
     const [processedData, setProcessedData] = useState([]);
     const [isLoading, SetIsLoading] = useState(false);
+    const [isLoadingApprove, SetIsLoadingApprove] = useState(false);
     const [createdby, setCreatedBy] = useState();
     axios.get(`/findUserById/${PODetails.AddedBy}`).then((res) => {
         setCreatedBy(res.data.user_name);
@@ -366,6 +367,7 @@ export default function POdetails({
         }
     }
     function ApprovePO(status) {
+        SetIsLoadingApprove(true)
         let type = 0;
         if (currentUser.role_id == 10) {
             type = 2;
@@ -393,9 +395,11 @@ export default function POdetails({
                     AlertToast("Rejected Successfully", 1);
                 }
                 setActiveIndexInv(2);
+                isLoadingApprove(false)
                 getPOs();
             })
             .catch((err) => {
+                isLoadingApprove(false)
                 console.log(err);
                 AlertToast("Error please try again.", 2);
             });
@@ -599,6 +603,7 @@ export default function POdetails({
                                             {authorizeToEditApprove ? (
                                                 <InvoicesButton
                                                     name="Approve"
+                                                    disabled={isLoadingApprove}
                                                     onClick={() => {
                                                         ApprovePO(2);
                                                     }}
@@ -607,6 +612,7 @@ export default function POdetails({
                                             {authorizeToEditReject() ? (
                                                 <InvoicesButton
                                                     name="Reject"
+                                                    disabled={isLoadingApprove}
                                                     onClick={() => {
                                                         ApprovePO(3);
                                                     }}
@@ -1184,6 +1190,7 @@ export default function POdetails({
                                         {authorizeToEditApprove ? (
                                             <InvoicesButton
                                                 name="Approve"
+                                                disabled={isLoadingApprove}
                                                 onClick={() => {
                                                     ApprovePO(2);
                                                 }}
@@ -1193,6 +1200,7 @@ export default function POdetails({
                                         {authorizeToEditReject() ? (
                                             <InvoicesButton
                                                 name="Reject"
+                                                disabled={isLoadingApprove}
                                                 onClick={() => {
                                                     ApprovePO(3);
                                                 }}

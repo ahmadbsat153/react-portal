@@ -39,7 +39,7 @@ class ContactFormController extends Controller
         ];
     
         // send the email
-        Mail::to('bassame@gtls.com.au')->send(new ContactFormMail($data));
+        Mail::to('customerservice@gtls.com.au')->send(new ContactFormMail($data));
     
         // redirect the user with a success message
         return redirect()->back()->with('success', 'Your message has been sent successfully!');

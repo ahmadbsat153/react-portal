@@ -19,6 +19,7 @@ export default function Invoice({
     categories,
     currentUser,
 }) {
+    const [isLoadingApprove, SetIsLoadingApprove] = useState(false);
     const [createdby, setCreatedBy] = useState();
     axios.get(`/findUserById/${invoiceDetails.AddedBy}`).then((res) => {
         setCreatedBy(res.data.user_name);
@@ -178,6 +179,7 @@ export default function Invoice({
     );
     const [authorizeToPay, setauthorizeToPay] = useState(authorityToPay());
     function PayInvoice(status) {
+        SetIsLoadingApprove(true)
         const inputValues = {
             InvoiceId: invoiceDetails.InvoiceId,
         };
@@ -196,13 +198,16 @@ export default function Invoice({
                     AlertToast("Not Paid Successfully", 1);
                 }
                 setActiveIndexInv(1);
+                SetIsLoadingApprove(false)
             })
             .catch((err) => {
                 AlertToast("Error please try again.", 2);
                 console.log(err);
+                SetIsLoadingApprove(false)
             });
     }
     function ApproveInvoice(status) {
+        SetIsLoadingApprove(true)
         let type = 0;
         if (currentUser.role_id == 10) {
             type = 2;
@@ -230,8 +235,10 @@ export default function Invoice({
                     AlertToast("Rejected Successfully", 1);
                 }
                 setActiveIndexInv(1);
+                SetIsLoadingApprove(false)
             })
             .catch((err) => {
+                SetIsLoadingApprove(false)
                 AlertToast("Error please try again.", 2);
                 console.log(err);
             });
@@ -451,6 +458,7 @@ export default function Invoice({
                                     <div className="flex justify-end w-full gap-x-2">
                                         <InvoicesButton
                                             name="Approve"
+                                            disabled={isLoadingApprove}
                                             onClick={() => {
                                                 ApproveInvoice(2);
                                             }}
@@ -465,6 +473,7 @@ export default function Invoice({
                                 {authorizeToEditReject() ? (
                                     <div className="flex justify-end w-full gap-x-2">
                                         <InvoicesButton
+                                        disabled={isLoadingApprove}
                                             name="Reject"
                                             onClick={() => {
                                                 ApproveInvoice(3);
@@ -483,6 +492,7 @@ export default function Invoice({
                                         false ? (
                                             <InvoicesButton
                                                 name="Pay"
+                                                disabled={isLoadingApprove}
                                                 onClick={() => {
                                                     PayInvoice(1);
                                                 }}
@@ -490,6 +500,7 @@ export default function Invoice({
                                         ) : (
                                             <InvoicesButton
                                                 name="Unpay"
+                                                disabled={isLoadingApprove}
                                                 onClick={() => {
                                                     PayInvoice(0);
                                                 }}
